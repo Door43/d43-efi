@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[efi:home|Door43 (efi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-efi|d43-efi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-efi/archive/master.zip|d43-efi.zip]]
+
+**Recent Changes**
+{{changes>ns = efi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/efi|Ethnologue data]]
+
